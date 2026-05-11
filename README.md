@@ -27,7 +27,7 @@ This project develops a discounted cash flow (DCF) valuation model for SOFI Tech
 ## Tools Used
 - Microsoft Excel
 - Financial modeling
-- DCF valuation methodology
+- DCF valuation
 - Sensitivity and scenario analysis
 
 ## Disclaimer
